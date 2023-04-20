@@ -1,9 +1,11 @@
 import pandas as pd
+import openai
 import numpy as np
 
-def get_api_key(personal = True):
+#doesn't work yet
+def set_api_key(personal = True):
     """
-    Returns the path to the api key file.
+    Sets the openAI the api key file.
     Choose between personal and professional api key.
 
     """
@@ -13,12 +15,20 @@ def get_api_key(personal = True):
     else:
         path = base_path + "css.txt"
     
-    print(path)
+    
     with open(path, "r") as f:
         api_key = f.read()
+    
+    #add key to openai
+    openai.api_key = api_key
+    #print("API key added")
+    if personal:
+        print("Personal API key added")
+    else:
+        print("CSS API key added")
 
     
-    return api_key
+    
 
 
 
