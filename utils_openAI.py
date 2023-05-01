@@ -42,6 +42,37 @@ def create_condition(stimulus, explanations, key):
     explanations_good = explanations[key + " Good"]
     explanations_bad = explanations[key + " Bad"]
     #create random list of booleans of length 3
+    good_explanation_indication = random.choice([True, False])
+    #generate random int between 0 and 2
+    random_int = random.randint(0,2)
+    stim = stimulus[random_int]
+
+    #create empty list of lists
+    list_of_1 = []
+    #populate list with either good or bad explanations in condition
+
+    #uf true add good explanation
+    if good_explanation_indication:
+        list_of_1.append([stim, explanations_good[random_int]])
+    #else add bad explanation
+    else:
+        list_of_1.append([stim, explanations_bad[random_int]])
+
+    
+    return list_of_1, good_explanation_indication, random_int
+
+
+def create_condition_multi(stimulus, explanations, key):
+    '''Function that creates a list of list for the desired condition. 
+    Conditions are: Without Neuro Science Short
+                    Without Neuro Science Long
+                    With Neuro Science Short
+                    With Neuro Science Long
+    Additionally, it also returns a list of booleans indicating whether the 
+    good explanation was picked for each'''
+    explanations_good = explanations[key + " Good"]
+    explanations_bad = explanations[key + " Bad"]
+    #create random list of booleans of length 3
     good_explanation_indication = [random.choice([True, False]) for i in range(3)]
 
     #create empty list of lists
@@ -60,7 +91,14 @@ def create_condition(stimulus, explanations, key):
 
 
 def prompt_creator(stimulus_answer_list):
-    '''Function that creates a prompt for the openAI API'''
+    '''Function that creates a prompt for the openAI API where all three scenarios with the right answer are included'''
+    prompt = '#####Phenomenon#####: ' + stimulus_answer_list[0][0] +  ' #####Explanation#####: ' + stimulus_answer_list[0][1] + '\n'
+
+    return prompt
+
+
+def prompt_creator_multi(stimulus_answer_list):
+    '''Function that creates a prompt for the openAI API where all three scenarios with the right answer are included'''
     prompt = '' #initialize prompt
 
     #loop over list

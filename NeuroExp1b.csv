@@ -1,0 +1,401 @@
+,Condition,Stimulous,Answer Good,Answer
+0,With Neuroscience Long,0,True,+2
+0,Without Neuroscience Short,1,False,+2
+0,Without Neuroscience Long,2,True,-2
+0,With Neuroscience Short,2,True,[+2]
+0,With Neuroscience Short,0,True,[+2] The explanation seems reasonable and provides evidence from brain scans to support the conclusion.
+0,With Neuroscience Short,2,True,[+2]
+0,With Neuroscience Short,1,True,[+2] The explanation provides a plausible and specific mechanism for the observed phenomenon.
+0,Without Neuroscience Short,0,False,+1
+0,Without Neuroscience Long,1,False,+2
+0,With Neuroscience Short,2,True,+2
+0,Without Neuroscience Short,1,True,"[+2] The explanation provided seems reasonable and logical. It suggests that attentional resources are limited and when they are used up, it becomes difficult to process additional information. However, it would be helpful to have more information about the study design and results to fully evaluate the explanation."
+0,With Neuroscience Long,0,False,+1
+0,With Neuroscience Long,2,False,[0]
+0,With Neuroscience Long,2,False,[0]
+0,Without Neuroscience Long,1,False,+2
+0,Without Neuroscience Long,0,False,+1
+0,Without Neuroscience Long,2,True,+2
+0,With Neuroscience Short,0,True,[+2] The explanation seems plausible and is supported by evidence from brain scans. It provides a clear and concise explanation for the phenomenon observed.
+0,Without Neuroscience Short,2,False,[-2]
+0,With Neuroscience Short,0,True,[+2] The explanation seems plausible and is supported by evidence from brain scans. It also provides a clear link between the phenomenon observed and the conclusion drawn by the researchers.
+0,With Neuroscience Short,1,True,[+2] The explanation provides a plausible reason for the phenomenon and is supported by previous research.
+0,Without Neuroscience Short,2,True,-1
+0,With Neuroscience Long,1,False,+2
+0,With Neuroscience Long,2,False,[0]
+0,With Neuroscience Long,0,False,+1
+0,Without Neuroscience Short,1,False,+2
+0,Without Neuroscience Long,2,True,[+1]
+0,With Neuroscience Long,0,True,"[+2] The explanation seems plausible and logical. The researchers used a well-designed experiment to test the babies' ability to understand basic arithmetic. The fact that the babies looked longer when there was only one doll suggests that they were surprised and expected to see two dolls. The claim that the parietal lobe, which is involved in math, was responsible for this expectation seems reasonable. However, more research is needed to confirm this explanation."
+0,With Neuroscience Long,0,False,+2
+0,With Neuroscience Short,0,True,[+2] The explanation seems to be well-supported by evidence and provides a plausible explanation for the phenomenon observed.
+0,With Neuroscience Short,0,False,+1
+0,With Neuroscience Short,0,True,[+2] The explanation seems plausible and is supported by evidence from brain scans. It provides a logical explanation for the observed phenomenon.
+0,Without Neuroscience Short,2,True,-1
+0,With Neuroscience Long,0,False,+2
+0,Without Neuroscience Long,1,True,+2
+0,With Neuroscience Long,2,True,+2
+0,Without Neuroscience Short,2,True,[0]
+0,Without Neuroscience Long,2,True,-1
+0,With Neuroscience Long,2,True,+2
+0,With Neuroscience Short,0,True,[+2] The explanation seems reasonable and provides evidence from brain scans to support the conclusion.
+0,With Neuroscience Short,0,False,+1
+0,Without Neuroscience Long,2,False,-2
+0,Without Neuroscience Short,2,False,[-2]
+0,With Neuroscience Long,2,True,+2
+0,With Neuroscience Long,0,True,+2
+0,Without Neuroscience Long,2,False,-2
+0,Without Neuroscience Long,0,False,+1
+0,Without Neuroscience Short,2,False,[-2]
+0,With Neuroscience Long,2,True,+2
+0,Without Neuroscience Long,1,False,+2
+0,With Neuroscience Short,0,True,[+2] The explanation seems reasonable and is supported by evidence from brain scans. It provides a plausible explanation for the phenomenon observed in the experiment.
+0,Without Neuroscience Long,0,False,+1
+0,With Neuroscience Short,1,True,"[+2] The explanation provides a plausible explanation for the phenomenon and is supported by previous research on attention and the frontal lobe. However, it could benefit from more specific details about the neural mechanisms involved in attentional blink."
+0,Without Neuroscience Long,2,False,-2
+0,Without Neuroscience Long,0,False,+1
+0,With Neuroscience Short,0,True,[+2] The explanation seems reasonable and is supported by scientific evidence. The use of brain scans to support the conclusion adds credibility to the study.
+0,Without Neuroscience Long,2,False,-2
+0,With Neuroscience Short,2,True,[+2]
+0,With Neuroscience Short,1,False,"[+2] The explanation provides a clear and plausible explanation for the phenomenon of attentional blink, linking it to the role of frontal lobe areas in attention and the temporal relationship between the two houses."
+0,Without Neuroscience Long,1,False,+2
+0,Without Neuroscience Short,1,True,+2
+0,With Neuroscience Short,1,True,[+2] The explanation provides a plausible and specific mechanism for the observed phenomenon.
+0,With Neuroscience Long,2,False,[0]
+0,Without Neuroscience Long,2,True,[+1]
+0,With Neuroscience Short,0,False,+1
+0,Without Neuroscience Long,2,True,[+1]
+0,Without Neuroscience Short,1,True,"[+2] The explanation seems plausible and makes sense based on the given phenomenon. However, it would be helpful to have more information about the specific attentional resources that are being used and how they are depleted."
+0,With Neuroscience Long,0,True,+2
+0,Without Neuroscience Long,2,True,-1
+0,Without Neuroscience Long,2,False,-2
+0,Without Neuroscience Long,2,True,[+1]
+0,Without Neuroscience Short,0,False,+1
+0,Without Neuroscience Short,2,True,[0]
+0,Without Neuroscience Long,0,True,[+2] The explanation seems plausible and logical. The researchers have provided a clear explanation for the phenomenon observed and have used data to support their claim. The conclusion drawn from the experiment seems reasonable.
+0,With Neuroscience Short,0,True,[+2] The explanation is good as it provides evidence from brain scans to support the conclusion drawn from the phenomenon.
+0,With Neuroscience Short,1,True,[+2] The explanation provides a plausible reason for the phenomenon and is supported by previous research.
+0,With Neuroscience Long,2,False,[0]
+0,With Neuroscience Long,2,False,[0]
+0,With Neuroscience Short,0,True,[+2] The explanation is good as it provides evidence from brain scans to support the conclusion drawn from the phenomenon.
+0,With Neuroscience Short,0,False,+1
+0,Without Neuroscience Long,1,True,+2
+0,With Neuroscience Long,0,False,+2
+0,Without Neuroscience Long,1,True,+2
+0,Without Neuroscience Short,0,True,+2
+0,Without Neuroscience Short,1,False,+2
+0,With Neuroscience Long,0,False,+2
+0,With Neuroscience Long,0,True,+2
+0,Without Neuroscience Short,0,True,+2
+0,With Neuroscience Long,1,False,+2
+0,Without Neuroscience Long,2,False,-2
+0,With Neuroscience Long,2,False,[0]
+0,With Neuroscience Long,0,True,+2
+0,With Neuroscience Long,2,False,[0]
+0,With Neuroscience Long,1,True,+2
+0,Without Neuroscience Short,2,False,[-2]
+0,Without Neuroscience Long,1,False,+2
+0,With Neuroscience Long,2,True,+2
+0,With Neuroscience Long,2,False,[0]
+0,With Neuroscience Long,2,True,+2
+0,With Neuroscience Long,2,True,+2
+0,With Neuroscience Long,1,False,+2
+0,Without Neuroscience Long,1,True,+2
+0,With Neuroscience Short,2,True,[+2]
+0,With Neuroscience Long,2,True,+2
+0,With Neuroscience Long,1,False,+2
+0,With Neuroscience Long,0,True,+2
+0,Without Neuroscience Long,2,True,[+2]
+0,Without Neuroscience Short,1,True,"[+2] The explanation seems plausible and consistent with the phenomenon observed. However, it would be helpful to have more information about the specific attentional resources that are being used and how they are being depleted."
+0,With Neuroscience Short,0,True,[+2] The explanation is good as it provides evidence from brain scans to support the conclusion drawn from the phenomenon.
+0,Without Neuroscience Short,2,False,[-2]
+0,With Neuroscience Long,0,True,+2
+0,With Neuroscience Long,1,False,+2
+0,With Neuroscience Long,2,True,+2
+0,With Neuroscience Long,1,True,+2
+0,With Neuroscience Short,0,True,[+2] The explanation seems plausible and is supported by evidence from brain scans. The researchers' conclusion is based on a well-designed experiment and the explanation provides a clear link between the phenomenon and the conclusion.
+0,Without Neuroscience Long,0,False,+1
+0,With Neuroscience Short,1,False,[+2] The explanation provides a clear and plausible explanation for the phenomenon observed in the experiment. The use of previous research to support the conclusion also adds to its credibility.
+0,With Neuroscience Short,1,False,[+2] The explanation provides a plausible and specific explanation for the phenomenon observed in the study.
+0,Without Neuroscience Long,2,False,-2
+0,Without Neuroscience Long,0,False,+1
+0,With Neuroscience Short,2,True,[+2]
+0,With Neuroscience Long,0,False,+2
+0,Without Neuroscience Long,1,True,+2
+0,Without Neuroscience Short,0,False,+1
+0,With Neuroscience Short,2,True,[+2]
+0,With Neuroscience Long,2,False,[0]
+0,Without Neuroscience Short,0,False,+1
+0,Without Neuroscience Long,1,True,+2
+0,Without Neuroscience Short,2,True,-1
+0,With Neuroscience Short,2,False,-2
+0,With Neuroscience Long,0,True,+2
+0,With Neuroscience Short,2,False,-1
+0,With Neuroscience Long,2,True,+2
+0,With Neuroscience Long,2,False,[0]
+0,Without Neuroscience Long,2,True,[+1]
+0,Without Neuroscience Short,1,False,+2
+0,Without Neuroscience Long,2,False,-2
+0,With Neuroscience Short,0,False,+1
+0,Without Neuroscience Short,1,True,+2
+0,Without Neuroscience Short,1,False,+2
+0,With Neuroscience Short,0,True,[+2] The explanation seems plausible and is backed up by evidence from brain scans. It provides a clear and logical explanation for the phenomenon observed in the experiment.
+0,Without Neuroscience Short,0,True,+2
+0,With Neuroscience Short,1,False,[+2] The explanation provides a clear and plausible explanation for the phenomenon observed. The use of previous research to support the conclusion adds to the strength of the explanation.
+0,Without Neuroscience Long,2,False,-2
+0,Without Neuroscience Short,2,False,[-2]
+0,With Neuroscience Short,0,True,[+2] The explanation is good as it provides scientific evidence to support the phenomenon and explains how the babies' brains were involved in the process.
+0,With Neuroscience Long,2,False,[0]
+0,Without Neuroscience Long,1,False,+2
+0,With Neuroscience Short,2,False,-1
+0,Without Neuroscience Short,1,False,+2
+0,With Neuroscience Long,1,True,+2
+0,Without Neuroscience Long,1,True,+2
+0,With Neuroscience Short,0,False,+1
+0,Without Neuroscience Long,0,True,[+2] The explanation seems plausible and logical. The researchers have provided evidence to support their claim and have used a scientific method to conduct the experiment. The conclusion drawn from the experiment is also reasonable.
+0,With Neuroscience Short,0,True,[+2] The explanation seems plausible and is supported by evidence from brain scans. It provides a clear and logical explanation for the observed phenomenon.
+0,Without Neuroscience Long,1,False,+2
+0,With Neuroscience Long,0,False,+1
+0,Without Neuroscience Long,1,True,+2
+0,With Neuroscience Short,1,False,"[+2] The explanation provides a plausible and specific mechanism for the phenomenon observed in the study. However, it would be helpful to have more information about the study design and results to fully evaluate the explanation."
+0,With Neuroscience Short,0,True,[+2] The explanation is good as it provides evidence from brain scans to support the conclusion drawn from the phenomenon.
+0,With Neuroscience Short,1,False,"[+2] The explanation provides a clear and plausible explanation for the phenomenon, linking it to specific brain regions and the temporal relationship between the two houses."
+0,Without Neuroscience Short,1,True,[+2] The explanation seems plausible and makes sense based on the phenomenon described.
+0,Without Neuroscience Short,1,True,"[+2] The explanation provided seems plausible and logical. It suggests that attentional resources are limited and that the processing of the first house interferes with the detection of the second house. However, it would be helpful to have more information about the study design and results to fully evaluate the explanation."
+0,With Neuroscience Long,2,True,+2
+0,Without Neuroscience Long,2,False,-2
+0,Without Neuroscience Long,2,False,-2
+0,With Neuroscience Short,1,True,[+2] The explanation provides a plausible and specific mechanism for the observed phenomenon.
+0,With Neuroscience Short,0,True,[+2] The explanation seems plausible and is supported by evidence from brain scans. It provides a clear and concise explanation for the phenomenon observed.
+0,With Neuroscience Short,0,True,[+2] The explanation seems plausible and is supported by evidence from brain scans. It provides a clear and logical connection between the phenomenon and the conclusion drawn by the researchers.
+0,Without Neuroscience Short,2,True,[0]
+0,With Neuroscience Long,0,False,+2
+0,With Neuroscience Long,1,True,+2
+0,Without Neuroscience Short,2,False,[-2]
+0,With Neuroscience Long,2,False,-2
+0,Without Neuroscience Long,1,True,+2
+0,With Neuroscience Short,1,False,[+2] The explanation provides a clear and plausible explanation for the phenomenon of attentional blink. The use of previous research to support the conclusion adds to the strength of the explanation.
+0,Without Neuroscience Short,0,False,+1
+0,Without Neuroscience Short,2,True,[0]
+0,With Neuroscience Short,1,True,[+2] The explanation provides a plausible and specific mechanism for the observed phenomenon.
+0,Without Neuroscience Short,0,True,+2
+0,Without Neuroscience Long,1,True,+2
+0,With Neuroscience Long,0,True,+2
+0,Without Neuroscience Short,2,False,[-2]
+0,With Neuroscience Long,0,True,+2
+0,Without Neuroscience Short,1,False,+2
+0,With Neuroscience Short,2,False,-2
+0,Without Neuroscience Short,0,False,+1
+0,Without Neuroscience Long,2,False,-2
+0,With Neuroscience Long,1,True,+2
+0,With Neuroscience Long,1,False,+2
+0,With Neuroscience Short,2,True,[+2]
+0,With Neuroscience Short,0,False,+1
+0,Without Neuroscience Long,1,False,+2
+0,Without Neuroscience Short,0,False,+1
+0,Without Neuroscience Long,2,False,-2
+0,Without Neuroscience Long,0,False,+1
+0,With Neuroscience Long,1,False,+2
+0,Without Neuroscience Short,0,False,+1
+0,With Neuroscience Long,0,False,+2
+0,With Neuroscience Long,1,True,+2
+0,Without Neuroscience Long,0,True,[+2] The explanation seems reasonable and logical. The researchers have provided evidence to support their claim and have explained the phenomenon in a clear and concise manner.
+0,With Neuroscience Long,2,False,[0]
+0,With Neuroscience Short,0,False,+1
+0,Without Neuroscience Long,0,True,[+2] The explanation seems plausible and logical. The researchers have provided a clear explanation for the phenomenon observed and have used data to support their claim. The conclusion drawn from the experiment seems reasonable.
+0,Without Neuroscience Long,2,False,-2
+0,Without Neuroscience Short,1,True,"[+2] The explanation seems reasonable and plausible. It suggests that attentional resources are limited and that the processing of the first house interferes with the detection of the second house. However, it would be helpful to know more about the specific mechanisms involved in attentional blink and how they relate to the brain's processing of visual information."
+0,Without Neuroscience Short,1,True,+2
+0,Without Neuroscience Long,1,False,+2
+0,Without Neuroscience Short,0,False,+1
+0,Without Neuroscience Short,1,False,+2
+0,With Neuroscience Short,2,False,-2
+0,With Neuroscience Long,0,False,+2
+0,With Neuroscience Long,0,True,+2
+0,With Neuroscience Short,1,True,[+2] The explanation provides a plausible and specific mechanism for the observed phenomenon.
+0,Without Neuroscience Long,0,False,+1
+0,Without Neuroscience Long,0,True,[+2] The explanation seems plausible and logical. The researchers have provided evidence to support their claim and have used a scientific method to conduct the experiment. The conclusion drawn from the data seems to be a reasonable explanation for the phenomenon observed.
+0,Without Neuroscience Long,0,False,+1
+0,With Neuroscience Short,2,True,[+2]
+0,With Neuroscience Short,1,True,"[+2] The explanation provides a plausible reason for the phenomenon and is supported by previous research. However, it could benefit from more specific details about the frontal lobe areas involved and how they mediate attention."
+0,With Neuroscience Long,0,False,+1
+0,With Neuroscience Short,1,True,[+2] The explanation provides a clear and plausible reason for the phenomenon observed in the experiment.
+0,With Neuroscience Long,2,True,+2
+0,With Neuroscience Short,2,False,-2
+0,Without Neuroscience Long,2,True,[+1]
+0,Without Neuroscience Long,1,True,+2
+0,With Neuroscience Long,1,True,+2
+0,Without Neuroscience Short,0,True,+2
+0,Without Neuroscience Long,0,True,[+2] The explanation seems reasonable and logical. The researchers have provided evidence to support their claim and have explained the phenomenon in a clear and concise manner.
+0,Without Neuroscience Long,2,True,[+1]
+0,With Neuroscience Short,1,False,"[+2] The explanation provides a clear and plausible explanation for the phenomenon of attentional blink, linking it to the frontal lobe areas that mediate attention and the temporal relationship between the two houses."
+0,Without Neuroscience Long,2,False,-2
+0,With Neuroscience Short,1,False,"[+2] The explanation provides a plausible and specific mechanism for the phenomenon, linking it to previous research on attention and the frontal lobe. However, it could benefit from more detail on the specific neural processes involved."
+0,With Neuroscience Long,2,True,+2
+0,With Neuroscience Short,2,True,[+2]
+0,Without Neuroscience Long,0,False,+1
+0,With Neuroscience Short,2,False,-2
+0,With Neuroscience Long,0,True,+2
+0,With Neuroscience Long,0,True,+2
+0,With Neuroscience Long,1,False,+2
+0,Without Neuroscience Long,0,False,+1
+0,With Neuroscience Long,0,True,+2
+0,Without Neuroscience Long,0,False,+1
+0,Without Neuroscience Long,2,True,[+2]
+0,Without Neuroscience Short,0,False,+1
+0,With Neuroscience Long,2,False,[0]
+0,With Neuroscience Long,2,False,[0]
+0,Without Neuroscience Short,0,True,+2
+0,Without Neuroscience Long,0,True,[+2] The explanation seems reasonable and logical. The researchers have provided evidence to support their claim and have used a scientific approach to draw their conclusion.
+0,With Neuroscience Short,0,True,[+2] The explanation is good as it provides scientific evidence to support the phenomenon and explains the brain activity involved in the babies' behavior.
+0,Without Neuroscience Long,1,False,+2
+0,Without Neuroscience Long,2,False,-2
+0,Without Neuroscience Short,0,False,+1
+0,Without Neuroscience Long,1,True,+2
+0,Without Neuroscience Short,1,True,[+2] The explanation seems plausible and makes sense based on the phenomenon described.
+0,Without Neuroscience Short,2,True,[0]
+0,With Neuroscience Short,0,False,+1
+0,Without Neuroscience Short,0,False,+1
+0,Without Neuroscience Short,2,False,[-2]
+0,Without Neuroscience Long,2,True,[+1]
+0,Without Neuroscience Long,0,True,[+2] The explanation seems plausible and logical. The researchers have provided a clear explanation for the phenomenon observed in the experiment. They have also used the data collected to support their claim.
+0,With Neuroscience Long,0,True,+2
+0,Without Neuroscience Short,1,True,"[+2] The explanation provided seems reasonable and plausible. It suggests that attentional resources are limited and that the processing of the first house interferes with the detection of the second house. However, it would be helpful to have more information about the specific mechanisms involved in this process."
+0,Without Neuroscience Short,0,False,+1
+0,With Neuroscience Long,0,False,+2
+0,With Neuroscience Short,2,False,-2
+0,With Neuroscience Long,1,False,+2
+0,Without Neuroscience Short,1,True,"[+2] The explanation seems plausible and makes sense given the phenomenon described. However, it would be helpful to have more information about the specific attentional resources involved and how they are depleted over time."
+0,With Neuroscience Short,0,False,+1
+0,Without Neuroscience Short,1,False,+2
+0,With Neuroscience Short,1,True,"[+2] The explanation provides a plausible reason for the phenomenon and is supported by previous research. However, it could benefit from more specific details about the frontal lobe areas involved and how they mediate attention."
+0,With Neuroscience Long,1,True,+2
+0,Without Neuroscience Long,0,True,[+2] The explanation seems plausible and logical. The researchers used a controlled experiment to observe the babies' behavior and came up with a conclusion based on the data collected. The explanation also aligns with what we know about early childhood development and how babies start to understand basic concepts like numbers.
+0,Without Neuroscience Long,1,False,+2
+0,Without Neuroscience Short,2,False,[-2]
+0,Without Neuroscience Short,0,True,+2
+0,Without Neuroscience Short,0,True,+2
+0,With Neuroscience Long,1,False,+2
+0,Without Neuroscience Long,2,False,-2
+0,With Neuroscience Long,0,False,+2
+0,Without Neuroscience Short,0,False,+1
+0,With Neuroscience Long,0,False,+2
+0,With Neuroscience Short,0,True,[+2] The explanation seems plausible and is supported by evidence from brain scans. It provides a clear link between the phenomenon observed and the conclusion drawn by the researchers.
+0,Without Neuroscience Short,2,True,-1
+0,With Neuroscience Long,1,True,+2
+0,Without Neuroscience Long,1,True,+2
+0,Without Neuroscience Long,0,False,+1
+0,With Neuroscience Long,0,True,+2
+0,Without Neuroscience Short,0,True,+2
+0,Without Neuroscience Short,0,False,+1
+0,Without Neuroscience Long,1,False,+2
+0,Without Neuroscience Long,1,False,+2
+0,With Neuroscience Short,0,True,[+2] The explanation seems plausible and is supported by evidence from brain scans. It provides a clear and concise explanation for the phenomenon observed.
+0,Without Neuroscience Long,1,False,+2
+0,With Neuroscience Long,2,True,+2
+0,Without Neuroscience Short,2,True,-1
+0,Without Neuroscience Long,2,True,[+1]
+0,With Neuroscience Long,2,False,[0]
+0,With Neuroscience Short,1,False,[+2] The explanation provides a clear and plausible explanation for the phenomenon observed in the experiment. It is based on previous research and provides a specific mechanism for why the attentional blink occurs.
+0,Without Neuroscience Short,0,True,+2
+0,With Neuroscience Short,0,True,[+2] The explanation seems reasonable and backed up by scientific evidence. It provides a clear explanation for the phenomenon observed.
+0,Without Neuroscience Short,0,True,+2
+0,With Neuroscience Long,2,False,[0]
+0,Without Neuroscience Short,2,True,-1
+0,With Neuroscience Long,2,False,[0]
+0,With Neuroscience Long,2,True,+2
+0,With Neuroscience Long,1,False,+2
+0,With Neuroscience Short,2,True,[+2]
+0,Without Neuroscience Long,2,False,-2
+0,With Neuroscience Short,1,False,[+2] The explanation provides a clear and plausible explanation for the phenomenon of attentional blink. The use of previous research on frontal lobe areas adds credibility to the explanation.
+0,With Neuroscience Long,1,True,+2
+0,With Neuroscience Long,1,False,+2
+0,Without Neuroscience Long,1,False,+2
+0,Without Neuroscience Long,1,True,+2
+0,With Neuroscience Short,0,False,+1
+0,Without Neuroscience Short,1,True,+2
+0,Without Neuroscience Short,1,True,"[+2] The explanation seems plausible and logical. It suggests that attentional resources are limited and can be exhausted by processing the first house, leading to a failure to detect the second house. However, it would be helpful to know more about the evidence supporting this explanation."
+0,Without Neuroscience Long,1,True,+2
+0,With Neuroscience Long,2,True,+2
+0,With Neuroscience Long,0,False,+1
+0,Without Neuroscience Long,1,True,+2
+0,Without Neuroscience Short,2,True,[0]
+0,With Neuroscience Long,0,False,+1
+0,With Neuroscience Short,0,True,[+2] The explanation seems plausible and is supported by evidence from brain scans. It provides a logical explanation for the phenomenon observed in the experiment.
+0,Without Neuroscience Short,2,True,-1
+0,Without Neuroscience Long,1,False,+2
+0,Without Neuroscience Short,0,False,+1
+0,With Neuroscience Short,0,False,+1
+0,Without Neuroscience Short,2,False,[-2]
+0,With Neuroscience Short,1,False,[+2] The explanation provides a clear and plausible explanation for the phenomenon observed.
+0,Without Neuroscience Long,2,False,-2
+0,With Neuroscience Long,2,True,+2
+0,Without Neuroscience Short,1,True,"[+2] The explanation seems plausible and makes sense based on the phenomenon described. However, it would be helpful to have more information about the specific attentional resources that are being used and how they are depleted over time."
+0,With Neuroscience Short,0,True,[+2] The explanation seems reasonable and provides evidence from brain scans to support the conclusion.
+0,Without Neuroscience Long,1,False,+2
+0,With Neuroscience Long,0,True,+2
+0,Without Neuroscience Long,0,True,"[+2] The explanation seems plausible and logical. The researchers have provided a clear explanation of how they arrived at their conclusion based on the observed phenomenon. The idea that babies have an innate sense of numbers and mathematics is supported by previous research, and the explanation fits well with this idea. However, further research may be needed to confirm this conclusion."
+0,Without Neuroscience Long,1,False,+2
+0,With Neuroscience Short,1,False,[+2] The explanation provides a clear and plausible explanation for the phenomenon observed. The use of previous research to support the conclusion adds credibility to the explanation.
+0,With Neuroscience Short,2,False,[0]
+0,With Neuroscience Long,1,True,+2
+0,With Neuroscience Short,1,True,[+2] The explanation provides a plausible and specific mechanism for the observed phenomenon.
+0,Without Neuroscience Short,2,True,[0]
+0,Without Neuroscience Short,0,True,+2
+0,Without Neuroscience Short,0,False,+1
+0,With Neuroscience Short,0,False,+1
+0,With Neuroscience Short,2,True,[+2]
+0,With Neuroscience Short,1,False,[+2] The explanation provides a clear and plausible reason for the phenomenon observed in the experiment. It references previous research and identifies specific brain areas involved in attention.
+0,Without Neuroscience Short,2,False,[-2]
+0,With Neuroscience Short,2,True,[+2]
+0,With Neuroscience Long,0,False,+2
+0,Without Neuroscience Short,2,False,[-2]
+0,Without Neuroscience Long,0,False,+1
+0,Without Neuroscience Short,0,False,+1
+0,With Neuroscience Short,1,False,[+2] The explanation provides a clear and plausible explanation for the phenomenon observed in the study. The researchers' conclusion that the attentional blink is caused by the temporal relationship between the two houses is supported by previous research on the role of frontal lobe areas in attention.
+0,With Neuroscience Long,2,True,+2
+0,With Neuroscience Short,1,True,[+2] The explanation provides a plausible reason for the phenomenon and is supported by previous research.
+0,Without Neuroscience Long,2,False,-2
+0,With Neuroscience Long,1,True,+2
+0,With Neuroscience Short,0,True,[+2] The explanation seems reasonable and backed up by evidence from brain scans. It provides a clear link between the phenomenon observed and the conclusion drawn by the researchers.
+0,Without Neuroscience Long,1,False,+2
+0,Without Neuroscience Long,2,False,-1
+0,With Neuroscience Short,0,False,+1
+0,Without Neuroscience Short,0,True,+2
+0,With Neuroscience Short,1,False,"[+2] The explanation provides a clear and plausible explanation for the phenomenon of attentional blink, linking it to specific brain areas and the timing of the stimuli."
+0,Without Neuroscience Long,1,False,+2
+0,With Neuroscience Short,1,True,[+2] The explanation provides a clear and plausible reason for the phenomenon observed in the experiment. It is based on previous research and provides a specific explanation for the observed results.
+0,Without Neuroscience Long,2,False,-2
+0,With Neuroscience Short,0,False,+1
+0,Without Neuroscience Long,2,False,-2
+0,With Neuroscience Short,1,True,"[+2] The explanation provides a plausible explanation for the phenomenon and is supported by previous research on the role of frontal lobe areas in attention. However, it would be helpful to have more details on the specific methods used in the study to fully evaluate the explanation."
+0,Without Neuroscience Long,1,True,+2
+0,With Neuroscience Short,2,True,[+2]
+0,Without Neuroscience Short,1,True,[+2] The explanation seems plausible and makes sense based on the phenomenon described.
+0,With Neuroscience Short,1,False,[+2] The explanation provides a clear and plausible explanation for the phenomenon observed in the study. The use of previous research to support the conclusion adds credibility to the explanation.
+0,Without Neuroscience Long,2,True,[+1]
+0,Without Neuroscience Short,0,False,+1
+0,With Neuroscience Short,2,True,[+2]
+0,Without Neuroscience Long,2,False,-1
+0,Without Neuroscience Short,0,False,+1
+0,Without Neuroscience Long,2,True,-1
+0,With Neuroscience Short,0,True,[+2] The explanation is good as it provides evidence from brain scans to support the conclusion drawn from the phenomenon.
+0,With Neuroscience Short,2,True,[+2]
+0,With Neuroscience Short,0,False,+1
+0,Without Neuroscience Short,0,True,+2
+0,With Neuroscience Short,2,False,-2
+0,Without Neuroscience Short,2,True,[0]
+0,Without Neuroscience Short,2,True,[0]
+0,Without Neuroscience Long,2,True,-2
+0,Without Neuroscience Short,2,False,[-2]
+0,With Neuroscience Short,2,False,-1
+0,Without Neuroscience Long,1,True,+2
+0,Without Neuroscience Short,0,False,+1
+0,With Neuroscience Short,2,True,[+2]
+0,With Neuroscience Short,0,False,+1
+0,With Neuroscience Long,0,True,+2
+0,Without Neuroscience Long,0,True,+2
+0,Without Neuroscience Long,2,True,-2
+0,Without Neuroscience Short,1,False,[+2]
+0,With Neuroscience Short,0,False,+1
+0,With Neuroscience Short,2,False,-1
