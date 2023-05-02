@@ -119,4 +119,48 @@ def clean_output(x):
         x[i] = int(x[i])
     return x
 
+#################################Functions experiment 2#############################################
+def make_condition_exp2(stimulus, explanations_s2):
+    '''
+    Function that creates the condition and collects the data for the experiment.
+    Returns a list where teh first element is the stimulus, the second the good explanation, and the third the bad explanation.
+    also returns the condition and the number of the stimulus and whether the good explanation should be first or not
+    '''
+    #Conditions
+    possible_conditions = ['With', 'Without', 'Mixed']
+    #pick one random condition
+    condition = random.choice(possible_conditions)
 
+    #pick number from 0 - 2
+    num_stimulus = random.randint(0,2)
+
+    #pick boolean of whether the good explanation is first or not
+    good_first = random.choice([True, False])
+
+    #make a list with 1) stimulus 2) good explanation 3) bad explanation
+    if condition == 'With':
+        condition_list = [stimulus[num_stimulus], explanations_s2['With Neuroscience Short Good'][num_stimulus], explanations_s2['With Neuroscience Short Bad'][num_stimulus]]
+    elif condition == 'Without':
+        condition_list = [stimulus[num_stimulus], explanations_s2['Without Neuroscience Short Good'][num_stimulus], explanations_s2['Without Neuroscience Short Bad'][num_stimulus]]
+    elif condition == 'Mixed':
+        condition_list = [stimulus[num_stimulus], explanations_s2['Without Neuroscience Short Good'][num_stimulus], explanations_s2['With Neuroscience Short Bad'][num_stimulus]]
+    else:
+        print('Error: condition not found')
+
+    return condition_list, condition, num_stimulus, good_first
+
+
+def create_prompt_exp2(condition_list, good_first):
+    '''
+    Takes as input the condition list and whether the good explanation should be first or not.
+    This is the output from make_condition_exp2. Retunrs a prompt as a string ready to be fead to GPT
+    '''
+    #prompt always starts with phenomenon
+    prompt = '#####Phenomenon#####:\n' + condition_list[0] + '\n#####Explanation 1#####:\n'
+    #then check and add whether good or bad explanation comes first
+    if good_first:
+        prompt = prompt + condition_list[1] + '\n#####Explanation 2#####:\n' + condition_list[2]
+    else:
+        prompt = prompt + condition_list[2] + '\n#####Explanation 2#####:\n' + condition_list[1]
+    
+    return prompt
