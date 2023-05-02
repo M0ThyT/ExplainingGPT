@@ -164,3 +164,54 @@ def create_prompt_exp2(condition_list, good_first):
         prompt = prompt + condition_list[2] + '\n#####Explanation 2#####:\n' + condition_list[1]
     
     return prompt
+
+
+#################################Functions experiment 3#############################################
+def make_condition_exp3(stimulus, explanations):
+    '''
+    Creates the condition for experiment 3, and returns the chosen stimulus, explanation, condition, and whether the explanation is good or bad
+    whether the explanation contains jargon or not, and whether the explanation contains neuro science or not, and what stimulus number was chosen
+    '''
+    #create condition
+    conditions = ['Simple Neuro Science Good', 'Simple Neuro Science Bad', 'Neuro Science and Jargon Good', 'Neuro Science and Jargon Bad', 'Without Neuro Science Good', 'Without Neuro Science Bad']
+    condition = random.choice(conditions)
+
+    #create neuro science, jargon and good variable
+    #if the split condition is equal to Good, then the good_bad variable is 1, else it is 0
+    if condition == 'Simple Neuro Science Good' or condition == 'Neuro Science and Jargon Good' or condition == 'Without Neuro Science Good':
+        answer_good = 1
+    else:
+        answer_good = 0
+
+    ##jargon
+    if condition == 'Neuro Science and Jargon Good' or condition == 'Neuro Science and Jargon Bad':
+        jargon = 1
+    else:
+        jargon = 0
+
+    #neuro science
+    if condition == 'Simple Neuro Science Good' or condition == 'Simple Neuro Science Bad' or condition == 'Neuro Science and Jargon Good' or condition == 'Neuro Science and Jargon Bad':
+        neuro = 1
+    else:
+        neuro = 0
+
+    #generate a random number between 0 and 2
+    stimulus_number = random.randint(0,2)
+
+    #get relevant material
+    stimulus_x = stimulus[stimulus_number]
+    explanation_x = explanations[condition][stimulus_number]
+
+
+    return stimulus_x, explanation_x, condition, answer_good, jargon, neuro, stimulus_number
+
+
+def create_prompt_exp3(stimulus_x, explanation_x):
+    '''
+    Creates Prompt for GPT input for experiment 3
+    '''
+    #prompt always starts with phenomenon
+    prompt = '#####Phenomenon#####: ' + stimulus_x  + ' #####Explanation#####: ' + explanation_x 
+
+   
+    return prompt
