@@ -1,0 +1,31 @@
+,stimulus_number,condition,good,jargon,neuroscience,answer
+0,0,Without Neuro Science Good,1,0,0,+2
+0,0,Neuro Science and Jargon Bad,0,1,1,-2
+0,0,Neuro Science and Jargon Bad,0,1,1,+1
+0,1,Neuro Science and Jargon Good,1,1,1,+3
+0,1,Without Neuro Science Bad,0,0,0,-2
+0,2,Neuro Science and Jargon Bad,0,1,1,-2
+0,0,Without Neuro Science Good,1,0,0,+2
+0,0,Neuro Science and Jargon Bad,0,1,1,+1
+0,1,Without Neuro Science Good,1,0,0,+3
+0,0,Neuro Science and Jargon Bad,0,1,1,-2
+0,1,Neuro Science and Jargon Good,1,1,1,+3
+0,0,Simple Neuro Science Bad,0,0,1,-2
+0,0,Without Neuro Science Good,1,0,0,+2
+0,1,Simple Neuro Science Bad,0,0,1,+2
+0,1,Simple Neuro Science Bad,0,0,1,+2
+0,0,Neuro Science and Jargon Good,1,1,1,+2
+0,1,Simple Neuro Science Bad,0,0,1,+2
+0,1,Without Neuro Science Good,1,0,0,+3
+0,2,Neuro Science and Jargon Bad,0,1,1,-2
+0,0,Simple Neuro Science Bad,0,0,1,-2
+0,0,Neuro Science and Jargon Good,1,1,1,+2
+0,1,Neuro Science and Jargon Bad,0,1,1,+2
+0,0,Neuro Science and Jargon Bad,0,1,1,-2
+0,0,Neuro Science and Jargon Good,1,1,1,+2
+0,0,Simple Neuro Science Good,1,0,1,+2
+0,1,Without Neuro Science Good,1,0,0,+3
+0,1,Neuro Science and Jargon Good,1,1,1,+2
+0,2,Without Neuro Science Bad,0,0,0,-3
+0,1,Neuro Science and Jargon Bad,0,1,1,+2
+0,2,Without Neuro Science Good,1,0,0,-2
